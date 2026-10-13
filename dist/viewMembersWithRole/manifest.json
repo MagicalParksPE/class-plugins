@@ -1,0 +1,11 @@
+{
+    "name": "ViewMembersWithRole",
+    "description": "View all members that have a specific role in a server",
+    "authors": [
+        { "name": "Ryfter", "id": "898619112350183445" },
+        { "name": "Ported for Kettu", "id": "0" }
+    ],
+    "main": "index.js",
+    "vendetta": { "icon": "ic_members" },
+    "hash": "1d115c7070ea7e7fcd4a998b5245b65198cffa860c324216ba3ac04b3b462e9b"
+}
